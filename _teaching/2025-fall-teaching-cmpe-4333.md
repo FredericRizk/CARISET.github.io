@@ -3,11 +3,11 @@ title: "CMPE 4333 - Introduction to Machine Learning"
 collection: teaching
 type: "Lecture Course"
 permalink: /teaching/2025-fall-cmpe-4333
-venue: "University of Louisiana at Lafayette, Electrical and Computer Engineering Department"
+venue: "University of Texas at Tyler, Electrical and Computer Engineering Department"
 date: 2025-08-01
-location: "Lafayette, Louisiana, USA"
+location: "Tyler, Texas, USA"
+university: "University of Texas at Tyler"
 ---
-
 **Course Description:**
 
 CMPE 4333 provides an introduction to supervised and unsupervised learning algorithms, including:
