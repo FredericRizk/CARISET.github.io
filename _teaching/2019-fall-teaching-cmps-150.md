@@ -7,7 +7,6 @@ venue: "University of Louisiana at Lafayette, Computer Science Department"
 date: 2019-08-01
 location: "Lafayette, Louisiana, USA"
 university: "University of Louisiana at Lafayette"
-role: "Instructor"
 semester: "Fall 2019"
 ---
 **Course Description:**
