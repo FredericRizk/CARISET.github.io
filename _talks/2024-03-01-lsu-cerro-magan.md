@@ -2,7 +2,7 @@
 title: "Advancing IoT Hardware Security and Data Augmentation Technique using MAGAN"
 collection: talks
 type: "Invited Talk"
-permalink: /talks/2024-03-01-cerro-magan-lsu
+permalink: /talks/2024-03-01-lsu-cerro-magan
 venue: "Louisiana State University"
 date: 2024-03-01
 location: "LA, USA"
