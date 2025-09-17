@@ -8,10 +8,10 @@ date: 2024-03-01
 location: "LA, USA"
 ---
 
-This research talk delves into two significant advancements in hardware security and machine learning.
+This talk covered two key developments in the areas of hardware security and machine learning.
 
-We first explore hardware-level security for Internet of Things (IoT) devices through a novel **Cost-Efficient Reliable Reconfigurable Ring Oscillator Physical Unclonable Function (CERRO PUF)**. CERRO PUF presents a promising solution that significantly reduces design overhead and power consumption while maintaining high efficiency and security. The talk includes a detailed analysis of CERRO PUF's performance, showcasing its improved challenge-response pair generation and resistance to machine learning-based attacks compared to existing designs.
+The first part focused on security for Internet of Things (IoT) devices. I introduced CERRO PUF — a Cost-Efficient Reliable Reconfigurable Ring Oscillator Physical Unclonable Function — designed to enhance hardware-level security. CERRO PUF reduces power consumption and design overhead while maintaining strong security. The presentation included performance insights and comparisons with existing methods, highlighting its resilience against machine learning-based attacks.
 
-The second part of the talk addresses data augmentation — a crucial strategy for overcoming limited training data in machine learning. Generative Adversarial Networks (GANs) are highlighted as powerful tools for synthesizing diverse and realistic data. We introduce a two-player game approach for GAN training and present **MAGAN**, a *Meta-Analysis method for GANs’ latent space*. MAGAN reveals the relationship between latent space and generated outputs and demonstrates high accuracy in tracing transformations. These insights affirm the potential of GANs as effective, parameterized data generators for enhancing data-driven augmentation pipelines.
+In the second half, I shifted to data augmentation in machine learning, particularly using Generative Adversarial Networks (GANs). I presented a training strategy based on a two-player game framework, along with MAGAN, a Meta-Analysis method for GANs’ latent space. MAGAN helps explain how changes in the latent space influence the quality and diversity of generated outputs. Together, these contributions aim to make data generation more reliable in cases where labeled data is limited.
 
 
