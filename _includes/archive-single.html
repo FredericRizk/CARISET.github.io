@@ -41,13 +41,15 @@
 
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <!-- Display Semester and Year -->
+      <p><strong>Semester:</strong> {{ post.semester }} {{ post.year }}</p>
     {% elsif post.collection == 'publications' %}
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.date %}
      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
 
-    <!-- ONLY show the description on the individual course page -->
+    <!-- Only show the course description if on the individual course page -->
     {% if page.url == post.url %}
       <div class="archive__item-description">
         <p>{{ post.content | markdownify }}</p>
