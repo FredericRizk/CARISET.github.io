@@ -2,7 +2,7 @@
 title: "KAN-MID: A Kolmogorov-Arnold Networks-based Framework for Malicious URL and Intrusion Detection"
 collection: talks
 type: "Invited Talk"
-permalink: /talks/2024-04-04-kan-mid-uttyler
+permalink: /talks/2024-04-04-uttyler-kan-mid
 venue: "University of Texas at Tyler"
 date: 2024-04-04
 location: "TX, USA"
