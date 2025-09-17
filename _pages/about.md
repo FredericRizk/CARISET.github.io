@@ -1,7 +1,13 @@
 ---
-layout: page
-title: About Me
-permalink: /about/
+permalink: /
+title: Hello there, This is Prof. Frederic Rizk
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+
+
 ---
 
 # Welcome to My Academic Portfolio
