@@ -2,10 +2,10 @@
 title: "A Meta-Analysis for Generative Adversarial Networks: Exploring Latent Space for Enhanced Data Augmentation with the MAGAN Algorithm"
 collection: talks
 type: "Invited Talk"
-permalink: /talks/2024-05-02-magan-augmentation-ualr
+permalink: /talks/2024-01-30-ualr-magan-augmentation.md
 venue: "University of Arkansas at Little Rock"
 date: 2024-05-02
-location: "Little Rock, AR, USA"
+location: "AR, USA"
 ---
 
 This talk focused on data augmentation — a crucial strategy for overcoming the scarcity of training data in machine learning. Generative Adversarial Networks (GANs) have emerged as powerful tools for producing realistic and diverse synthetic datasets.
