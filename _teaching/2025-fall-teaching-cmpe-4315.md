@@ -7,7 +7,9 @@ venue: "University of Texas at Tyler, Electrical and Computer Engineering Depart
 date: 2025-08-01
 location: "Tyler, Texas, USA"
 university: "University of Texas at Tyler"
+semester: "Fall 2025"
 ---
+
 **Course Description:**
 
 CMPE 4315 is a capstone design project where students work through all stages of the design process, including:
