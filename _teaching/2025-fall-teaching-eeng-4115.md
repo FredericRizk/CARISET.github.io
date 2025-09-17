@@ -7,9 +7,9 @@ venue: "University of Texas at Tyler, Electrical Engineering Department"
 date: 2025-08-01
 location: "Tyler, Texas, USA"
 university: "University of Texas at Tyler"
+semester: "Fall 2025"
 role: "Technical Advisor"
 ---
-
 **Course Description:**
 
 As the **Technical Advisor** for EENG 4115, I guide students through the establishment of goals and planning for their senior capstone design projects. Students will:
