@@ -2,7 +2,7 @@
 title: "A Meta-Analysis for Generative Adversarial Networks: Exploring Latent Space for Enhanced Data Augmentation with the MAGAN Algorithm"
 collection: talks
 type: "Invited Talk"
-permalink: /talks/2024-01-30-ualr-magan-augmentation.md
+permalink: /talks/2024-01-30-ualr-magan-augmentation
 venue: "University of Arkansas at Little Rock"
 date: 2024-05-02
 location: "AR, USA"
