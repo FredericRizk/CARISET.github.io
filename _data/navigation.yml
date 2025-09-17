@@ -10,7 +10,7 @@
 main:
   - title: "Publications"
     #url: /publications/
-     url: "https://scholar.google.com/citations?user=-Sl7kMUAAAAJ"
+    url: "https://scholar.google.com/citations?user=-Sl7kMUAAAAJ"
 
   - title: "Talks"
     url: /talks/    
