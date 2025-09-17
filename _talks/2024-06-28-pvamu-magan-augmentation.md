@@ -3,7 +3,7 @@ title: "A Meta-Analysis for Generative Adversarial Networks: Exploring Latent Sp
 collection: talks
 type: "Invited Talk"
 permalink: /talks/2024-06-28-pvamu-magan-augmentation
-venue: "Prairie View A&M University (PVAMU)"
+venue: "Prairie View A&M University"
 date: 2024-06-28
 location: "TX, USA"
 ---
