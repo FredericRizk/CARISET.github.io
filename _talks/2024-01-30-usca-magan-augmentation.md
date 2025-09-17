@@ -2,7 +2,7 @@
 title: "A Meta-Analysis for Generative Adversarial Networks: Exploring Latent Space for Enhanced Data Augmentation with the MAGAN Algorithm"
 collection: talks
 type: "Invited Talk"
-permalink: /talks/2024-01-30-magan-augmentation
+permalink: /talks/2024-01-30-usca-magan-augmentation
 venue: "University of South Carolina Aiken"
 date: 2024-01-30
 location: "SC, USA"
