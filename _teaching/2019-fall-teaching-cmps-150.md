@@ -6,8 +6,10 @@ permalink: /teaching/2019-fall-cmps-150
 venue: "University of Louisiana at Lafayette, Computer Science Department"
 date: 2019-08-01
 location: "Lafayette, Louisiana, USA"
+university: "University of Louisiana at Lafayette"
+role: "Instructor"
+semester: "Fall 2019"
 ---
-
 **Course Description:**
 
 CMPS 150 introduces students to the fundamentals of **Computer Science**. Topics include:
