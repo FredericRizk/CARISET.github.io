@@ -49,17 +49,13 @@
      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
 
-    <!-- Only show the course description if on the individual course page -->
+    <!-- Only show the course description on the individual course page -->
     {% if page.url == post.url %}
       <div class="archive__item-description">
-        <p>{{ post.content | markdownify }}</p>
+        {{ post.content | markdownify }}
       </div>
-    {% else %}
-      <!-- On the main teaching page, we only show the excerpt (brief description) -->
-      {% if post.excerpt %}
-        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-      {% endif %}
     {% endif %}
+
 
     
     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
