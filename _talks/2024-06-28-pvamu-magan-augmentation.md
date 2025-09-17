@@ -2,7 +2,7 @@
 title: "A Meta-Analysis for Generative Adversarial Networks: Exploring Latent Space for Enhanced Data Augmentation with the MAGAN Algorithm"
 collection: talks
 type: "Invited Talk"
-permalink: /talks/2024-06-28-magan-augmentation-pvamu
+permalink: /talks/2024-06-28-pvamu-magan-augmentation
 venue: "Prairie View A&M University (PVAMU)"
 date: 2024-06-28
 location: "TX, USA"
