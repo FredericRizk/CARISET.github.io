@@ -3,7 +3,7 @@ title: "CMPS 150 - Introduction to Computer Science"
 collection: teaching
 type: "Lecture Course"
 permalink: /teaching/2022-spring-cmps-150
-venue: "University of Louisiana at Lafayette, Computer Science Department"
+venue: "University of Louisiana at Lafayette, School of Computing & Informatics"
 date: 2022-01-01
 location: "Lafayette, Louisiana, USA"
 university: "University of Louisiana at Lafayette"
