@@ -1,6 +1,6 @@
 ---
 title: "Join Us"
-permalink: /pages/join-us.md/
+permalink: /pages/join-us/
 layout: page
 ---
 
