@@ -15,7 +15,7 @@ redirect_from:
 
 ---
 
-## 🌟 About Us  
+## About Us  
 CARISET is a research center dedicated to advancing the frontiers of **intelligent systems** and **emerging technologies**.  
 We bring together faculty, students, and collaborators to explore groundbreaking solutions that address real-world challenges.  
 
