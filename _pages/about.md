@@ -22,26 +22,23 @@ redirect_from:
 CARISET is a research center dedicated to advancing the frontiers of **intelligent systems** and **emerging technologies**.  
 We bring together faculty, students, and collaborators to explore groundbreaking solutions that address real-world challenges.
 
-Our mission is to:  
-- Drive impactful research in **AI, Machine Learning, Distributed Systems, Quantum Computing, and Cybersecurity**.  
-- Foster **collaborations** across academia, industry, and government.  
-- Train the **next generation of scientists and engineers** in cutting-edge technologies.
-
 </div>
+
+Our mission is to:
+
+- Drive impactful research in **AI, Machine Learning, Distributed Systems, Quantum Computing, and Cybersecurity**  
+- Foster **collaborations** across academia, industry, and government  
+- Train the **next generation of scientists and engineers** in cutting-edge technologies
 
 ---
 
 ## Research Areas  
-
-<div style="text-align: justify;">
 
 - Artificial Intelligence & Machine Learning  
 - Cybersecurity & Privacy  
 - Distributed & Cloud Computing  
 - Quantum Computing & AI Integration  
 - Intelligent Systems for Healthcare and Education  
-
-</div>
 
 ---
 
@@ -58,7 +55,7 @@ We also mentor graduate and undergraduate students through **research projects, 
 <div style="text-align: justify;">
 
 CARISET is led by **Dr. Frederic Rizk**, Assistant Professor of Computer Science and Engineering.  
-Dr. Rizk’s research focuses on **AI, distributed systems, quantum computing, and security**, with a passion for building innovative frameworks that push the boundaries of intelligent technologies.
+Prof. Rizk’s research focuses on **AI, distributed systems, quantum computing, and security**, with a passion for building innovative frameworks that push the boundaries of intelligent technologies.
 
 </div>
 
