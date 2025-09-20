@@ -11,7 +11,7 @@ redirect_from:
 # CARISET  
 **Center for Advanced Research in Intelligent Systems and Emerging Technologies**
 
-![CARISET Banner](/images/cariset-banner.png)
+![CARISET Banner](images/cariset-banner.png)
 
 ---
 
@@ -41,7 +41,7 @@ We also mentor graduate and undergraduate students through **research projects, 
 ---
 
 ## Leadership  
-CARISET is led by **Prof. Frederic Rizk**, Assistant Professor of Computer Science and Engineering.  
+CARISET is led by **Dr. Frederic Rizk**, Assistant Professor of Computer Science and Engineering.  
 Prof. Rizk’s research focuses on **AI, distributed systems, quantum computing, and security**, with a passion for building innovative frameworks that push the boundaries of intelligent technologies.  
 
 ---
