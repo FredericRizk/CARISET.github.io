@@ -11,7 +11,7 @@ redirect_from:
 # CARISET  
 **Center for Advanced Research in Intelligent Systems and Emerging Technologies**
 
-![CARISET Banner](CARISET-PICTURE.png)
+![CARISET Banner](/images/CARISET-PICTURE.png)
 
 ---
 
