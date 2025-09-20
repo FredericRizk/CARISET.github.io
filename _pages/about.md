@@ -58,7 +58,7 @@ We also mentor graduate and undergraduate students through **research projects, 
 <div style="text-align: justify;">
 
 CARISET is led by **Dr. Frederic Rizk**, Assistant Professor of Computer Science and Engineering.  
-Prof. Rizk’s research focuses on **AI, distributed systems, quantum computing, and security**, with a passion for building innovative frameworks that push the boundaries of intelligent technologies.
+Dr. Rizk’s research focuses on **AI, distributed systems, quantum computing, and security**, with a passion for building innovative frameworks that push the boundaries of intelligent technologies.
 
 </div>
 
