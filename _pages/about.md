@@ -1,5 +1,5 @@
 ---
-permalink: /pages/about.md
+permalink: /pages/about
 title: Welcome to CARISET
 excerpt: "Center for Advanced Research in Intelligent Systems and Emerging Technologies"
 author_profile: true
