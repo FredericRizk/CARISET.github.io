@@ -45,7 +45,7 @@ Our mission is to:
 
 <div style="text-align: justify;">
 
-CARISET also plays a central role in <strong>mentoring graduate and undergraduate students</strong> through research projects, thesis supervision, and industry partnerships — equipping them with the expertise to lead in both academia and industry.  
+CARISET also plays a central role in <strong>mentoring graduate and undergraduate students</strong> through research projects, thesis supervision, and industry partnerships, equipping them with the expertise to lead in both academia and industry.  
 
 </div>
 
