@@ -63,8 +63,6 @@ Prof. Rizk’s research focuses on **AI, distributed systems, quantum computing,
 
 ## Contact Us  
 
-<div style="text-align: justify;">
 
 Email: [frizk@uttyler.edu](mailto:frizk@uttyler.edu)
 
-</div>
