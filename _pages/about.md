@@ -12,7 +12,7 @@ redirect_from:
 **Center for Advanced Research in Intelligent Systems and Emerging Technologies**
 
 <p align="center">
-  <img src="../images/pic-pi.jpeg" alt="CARISET Banner" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="../images/cariset-banner.png" alt="CARISET Banner" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </p>
 
 ---
