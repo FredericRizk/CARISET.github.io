@@ -4,18 +4,19 @@ title: Meet Our Team – CARISET
 excerpt: "Our dedicated research team at the Center for Advanced Research in Intelligent Systems and Emerging Technologies"
 ---
 
-<!-- Override theme padding/margins for full-width layout -->
+<!-- Override theme padding/margins for full-width layout but keep left padding -->
 <style>
   body, .page, .wrapper, .container, main {
     margin: 0 !important;
-    padding: 0 !important;
+    padding-left: 3rem !important; /* keep left padding */
+    padding-right: 0 !important;   /* remove right padding */
     max-width: 100% !important;
     width: 100% !important;
     box-sizing: border-box;
   }
 </style>
 
-<div style="width: 100%; padding: 0; box-sizing: border-box;">
+<div style="width: 100%; padding-left: 1rem; padding-right: 0; box-sizing: border-box;">
 
   <hr>
 
@@ -49,4 +50,63 @@ excerpt: "Our dedicated research team at the Center for Advanced Research in Int
   <table style="width: 100%; border-spacing: 0; border: none; table-layout: auto;">
     <tr>
       <td style="width: 220px; vertical-align: top; padding: 1rem;">
-        <img
+        <img src="{{ '/images/postdoc.jpg' | relative_url }}" alt="Postdoctoral Researcher" style="width: 100%; border-radius: 8px;">
+      </td>
+      <td style="vertical-align: top; padding: 1rem;">
+        <strong>[Full Name]</strong><br>
+        Postdoctoral Fellow, CARISET Lab<br><br>
+        [Enter a brief bio here.]
+      </td>
+    </tr>
+  </table>
+
+  <hr>
+
+  <h2>Graduate Research Assistants</h2>
+
+  <table style="width: 100%; border-spacing: 0; border: none; table-layout: auto;">
+    <tr>
+      <td style="width: 220px; vertical-align: top; padding: 1rem;">
+        <img src="{{ '/images/ra1.jpg' | relative_url }}" alt="Graduate Research Assistant 1" style="width: 100%; border-radius: 8px;">
+      </td>
+      <td style="vertical-align: top; padding: 1rem;">
+        <strong>[Full Name]</strong><br>
+        M.S. Student, [Major]<br><br>
+        [Write a short bio here.]
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <table style="width: 100%; border-spacing: 0; border: none; table-layout: auto;">
+    <tr>
+      <td style="width: 220px; vertical-align: top; padding: 1rem;">
+        <img src="{{ '/images/ra2.jpg' | relative_url }}" alt="Graduate Research Assistant 2" style="width: 100%; border-radius: 8px;">
+      </td>
+      <td style="vertical-align: top; padding: 1rem;">
+        <strong>[Full Name]</strong><br>
+        M.S. Student, [Major]<br><br>
+        [Write a short bio here.]
+      </td>
+    </tr>
+  </table>
+
+  <hr>
+
+  <h2>Undergraduate Researcher</h2>
+
+  <table style="width: 100%; border-spacing: 0; border: none; table-layout: auto;">
+    <tr>
+      <td style="width: 220px; vertical-align: top; padding: 1rem;">
+        <img src="{{ '/images/undergrad.jpg' | relative_url }}" alt="Undergraduate Researcher" style="width: 100%; border-radius: 8px;">
+      </td>
+      <td style="vertical-align: top; padding: 1rem;">
+        <strong>[Full Name]</strong><br>
+        Undergraduate Student, [Major]<br><br>
+        [Write a short description.]
+      </td>
+    </tr>
+  </table>
+
+</div>
