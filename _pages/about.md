@@ -19,7 +19,7 @@ redirect_from:
 
 <div style="text-align: justify;">
 
-CARISET is a research center dedicated to advancing the frontiers of **intelligent systems** and **emerging technologies**.  
+CARISET is a research center dedicated to advancing the frontiers of <strong>intelligent systems</strong> and <strong>emerging technologies</strong>.  
 We bring together faculty, students, and collaborators to explore groundbreaking solutions that address real-world challenges.
 
 </div>
@@ -44,7 +44,7 @@ Our mission is to:
 
 <div style="text-align: justify;">
 
-We also mentor graduate and undergraduate students through **research projects, thesis supervision, and industry collaborations**.
+We also mentor graduate and undergraduate students through <strong>research projects, thesis supervision, and industry collaborations</strong>.
 
 </div>
 
@@ -54,8 +54,8 @@ We also mentor graduate and undergraduate students through **research projects, 
 
 <div style="text-align: justify;">
 
-CARISET is led by **Dr. Frederic Rizk**, Assistant Professor of Computer Science and Engineering.  
-Prof. Rizk’s research focuses on **AI, distributed systems, quantum computing, and security**, with a passion for building innovative frameworks that push the boundaries of intelligent technologies.
+CARISET is led by <strong>Dr. Frederic Rizk</strong>, Assistant Professor of Computer Science and Engineering.  
+Prof. Rizk’s research focuses on <strong>AI, distributed systems, quantum computing, and security</strong>, with a passion for building innovative frameworks that push the boundaries of intelligent technologies.
 
 </div>
 
@@ -63,6 +63,4 @@ Prof. Rizk’s research focuses on **AI, distributed systems, quantum computing,
 
 ## Contact Us  
 
-
 Email: [frizk@uttyler.edu](mailto:frizk@uttyler.edu)
-
