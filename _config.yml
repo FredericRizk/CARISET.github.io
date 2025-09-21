@@ -23,7 +23,7 @@ repository               : "fredericrizk/CARISET.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepic.png"
+  avatar           : "pic-pi.jpeg"
   name             : "Dr. Frederic Rizk"
   pronouns         : # example: "she/her"  
   bio              : "Professor in the Department of Electrical and Computer Engineering at the University of Texas at Tyler"
