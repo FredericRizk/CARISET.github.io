@@ -4,30 +4,34 @@ title: Meet Our Team – CARISET
 excerpt: "Our dedicated research team at the Center for Advanced Research in Intelligent Systems and Emerging Technologies"
 ---
 
-<!-- Override theme padding/margins for full-width layout but keep left padding -->
+<!-- Style block to fix title alignment and remove table borders -->
 <style>
-  body, .page, .wrapper, .container, main {
-    margin: 0 !important;
-    padding-left: 7rem !important; /* keep left padding */
-    padding-right: 0 !important;   /* remove right padding */
-    max-width: 100% !important;
-    width: 100% !important;
-    box-sizing: border-box;
+  h1.page-title, .page-title, header.page-header, .page-header h1 {
+    padding-left: 7rem !important;
+  }
+  table {
+    border: none !important;
+    border-collapse: collapse !important;
+    border-spacing: 0 !important;
+  }
+  td, th {
+    border: none !important;
   }
 </style>
 
+<!-- Main content container -->
 <div style="width: 100%; padding-left: 7rem; padding-right: 0; box-sizing: border-box;">
 
   <hr>
 
   <h1>Principal Investigator</h1>
 
-  <table style="width: 100%; border-spacing: 0; border: none; table-layout: auto;">
+  <table>
     <tr>
       <td style="width: 220px; vertical-align: top; padding: 1rem;">
         <img src="{{ '/images/pic-pi.jpeg' | relative_url }}" alt="Principal Investigator" style="width: 100%; border-radius: 8px;">
       </td>
-      <td style="vertical-align: top; padding: 1rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+      <td style="vertical-align: top; padding: 1rem;">
         <strong style="font-size: 1.3rem;">Dr. Frederic Rizk</strong><br>
         Assistant Professor, Electrical and Computer Engineering &nbsp; | &nbsp; The University of Texas at Tyler<br>
         Director of the Center for Advanced Research in Intelligent Systems and Emerging Technologies (CARISET)<br>
@@ -47,7 +51,7 @@ excerpt: "Our dedicated research team at the Center for Advanced Research in Int
 
   <h2>Postdoctoral Researcher</h2>
 
-  <table style="width: 100%; border-spacing: 0; border: none; table-layout: auto;">
+  <table>
     <tr>
       <td style="width: 220px; vertical-align: top; padding: 1rem;">
         <img src="{{ '/images/postdoc.jpg' | relative_url }}" alt="Postdoctoral Researcher" style="width: 100%; border-radius: 8px;">
@@ -64,7 +68,7 @@ excerpt: "Our dedicated research team at the Center for Advanced Research in Int
 
   <h2>Graduate Research Assistants</h2>
 
-  <table style="width: 100%; border-spacing: 0; border: none; table-layout: auto;">
+  <table>
     <tr>
       <td style="width: 220px; vertical-align: top; padding: 1rem;">
         <img src="{{ '/images/ra1.jpg' | relative_url }}" alt="Graduate Research Assistant 1" style="width: 100%; border-radius: 8px;">
@@ -79,7 +83,7 @@ excerpt: "Our dedicated research team at the Center for Advanced Research in Int
 
   <br>
 
-  <table style="width: 100%; border-spacing: 0; border: none; table-layout: auto;">
+  <table>
     <tr>
       <td style="width: 220px; vertical-align: top; padding: 1rem;">
         <img src="{{ '/images/ra2.jpg' | relative_url }}" alt="Graduate Research Assistant 2" style="width: 100%; border-radius: 8px;">
@@ -96,7 +100,7 @@ excerpt: "Our dedicated research team at the Center for Advanced Research in Int
 
   <h2>Undergraduate Researcher</h2>
 
-  <table style="width: 100%; border-spacing: 0; border: none; table-layout: auto;">
+  <table>
     <tr>
       <td style="width: 220px; vertical-align: top; padding: 1rem;">
         <img src="{{ '/images/undergrad.jpg' | relative_url }}" alt="Undergraduate Researcher" style="width: 100%; border-radius: 8px;">
