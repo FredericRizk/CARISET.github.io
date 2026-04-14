@@ -1,10 +1,12 @@
 ---
 title: "CMPE 4311 – Signals and Systems"
 collection: teaching
-type: "Undergraduate Course"
+type: "Lecture Course"
 permalink: /teaching/2026-spring-cmpe-4311
+venue: "University of Texas at Tyler, Electrical and Computer Engineering Department"
 date: 2026-01-05
-location: "University of Texas at Tyler"
+location: "Tyler, Texas, USA"
+university: "University of Texas at Tyler"
 semester: "Spring 2026"
 role: "Course Coordinator / Instructor"
 ---
